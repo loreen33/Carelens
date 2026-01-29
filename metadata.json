@@ -1,0 +1,7 @@
+{
+  "name": "CareLens",
+  "description": "AI-powered burnout detection and mental load analysis engine offering personalized, compassionate support.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
